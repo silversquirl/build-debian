@@ -14,5 +14,5 @@ jobs:
       with:
         username: vktec
         password: ${{ secrets.DOCKER_PASSWORD }}
-        repository: build
+        repository: vktec/build
         tag_with_ref: true

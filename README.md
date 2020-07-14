@@ -8,18 +8,19 @@ This is a container containing a selection of build tools, designed for use with
 
 This container includes a selection of build tools and language interpreters:
 
-- git
-- make
+- byacc
 - clang
 - flex
-- byacc
-- python3
+- git
 - golang
+- make
+- mingw
+- python3
 
 As well as a selection of libraries for linking against:
 
-- GLFW3
-- GLEW
-- SDL2
 - FreeType
+- GLEW
+- GLFW3
+- SDL2
 - libev

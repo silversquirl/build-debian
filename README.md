@@ -20,6 +20,7 @@ This container includes a selection of build tools and language interpreters:
 - p7zip
 - python3
 - unzip
+- xxd
 
 As well as a selection of libraries for linking against:
 

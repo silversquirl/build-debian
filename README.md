@@ -15,6 +15,7 @@ This container includes a selection of build tools and language interpreters:
 - golang
 - make
 - mingw
+- musl-gcc
 - python3
 
 As well as a selection of libraries for linking against:

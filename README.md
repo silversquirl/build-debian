@@ -10,13 +10,16 @@ This container includes a selection of build tools and language interpreters:
 
 - byacc
 - clang
+- curl
 - flex
 - git
 - golang
 - make
 - mingw
 - musl-gcc
+- p7zip
 - python3
+- unzip
 
 As well as a selection of libraries for linking against:
 

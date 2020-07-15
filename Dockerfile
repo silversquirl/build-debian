@@ -1,5 +1,6 @@
 FROM docker.io/debian:buster
 RUN apt update
+RUN apt upgrade -y
 RUN apt install -y \
 	byacc clang cmake curl flex git golang make \
 	mingw-w64 musl-tools p7zip python3 unzip xxd \

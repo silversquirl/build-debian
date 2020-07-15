@@ -10,6 +10,7 @@ This container includes a selection of build tools and language interpreters:
 
 - byacc
 - clang
+- cmake
 - curl
 - flex
 - git

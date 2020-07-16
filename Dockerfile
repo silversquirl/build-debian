@@ -9,5 +9,5 @@ RUN apt install -y cmake make	# Build tools
 RUN apt install -y clang golang	# Compilers
 RUN apt install -y python3	# Interpreters
 RUN apt install -y libglfw3-dev libsdl2-dev	# Graphics libraries
-RUN apt install -y libxcb-dev libx11-dev	# X11 libraries
+RUN apt install -y libx11-dev	# X11 libraries
 RUN apt install -y libfreetype6-dev libev-dev	# Misc libraries
